@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "AzureKeyVaultExplorer.ConsoleApp": {
+      "commandName": "Project",
+      "commandLineArgs": ""
+    }
+  }
+}
