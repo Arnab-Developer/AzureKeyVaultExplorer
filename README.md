@@ -2,3 +2,7 @@
 
 This is a console app to search, read and update secret values in Azure Key Vault. To run the app 
 you need to provide four command line arguments `vault url`, `tenant id` `client id` and `client secret`.
+
+```
+dotnet run AzureKeyVaultExplorer.ConsoleApp.csproj "<vault url>" "<tenant id>" "<client id>" "<client secret>"
+```
